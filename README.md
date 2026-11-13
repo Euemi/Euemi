@@ -8,3 +8,10 @@
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Euemi&theme=dracula)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Euemi&theme=dracula)<br/>
 ![Streak](https://streak-stats.demolab.com/?user=Euemi&theme=dracula&hide_border=false)
+
+# 🐍 Contribuições:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Euemi/Euemi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Euemi/Euemi/output/github-snake.svg" />
+  <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/Euemi/Euemi/output/github-snake.svg" />
+</picture>
