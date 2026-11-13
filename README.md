@@ -11,8 +11,15 @@ Oi! Eu sou a **Hemelly** ♡ (pode me chamar de Emi)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hemelly-carolyne)
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# ✿ Ferramentas:
+
+**🎨 Design & Pesquisa**
+
+![Figma](https://img.shields.io/badge/Figma-ff7ab6?style=for-the-badge&logo=figma&logoColor=white) ![FigJam](https://img.shields.io/badge/FigJam-ff7ab6?style=for-the-badge&logo=figma&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-ff7ab6?style=for-the-badge&logo=miro&logoColor=white) ![Maze](https://img.shields.io/badge/Maze-ff7ab6?style=for-the-badge&logo=maze&logoColor=white) ![Google Forms](https://img.shields.io/badge/Google%20Forms-ff7ab6?style=for-the-badge&logo=googleforms&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-ff7ab6?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-ff7ab6?style=for-the-badge&logo=jira&logoColor=white)
+
+**🤖 IA**
+
+![Claude](https://img.shields.io/badge/Claude-f04a98?style=for-the-badge&logo=claude&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-f04a98?style=for-the-badge) ![Gemini](https://img.shields.io/badge/Gemini-f04a98?style=for-the-badge&logo=googlegemini&logoColor=white) ![v0](https://img.shields.io/badge/v0-f04a98?style=for-the-badge&logo=v0&logoColor=white) ![Stitch](https://img.shields.io/badge/Stitch-f04a98?style=for-the-badge&logo=google&logoColor=white)
 
 # 📊 GitHub Stats:
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Euemi&theme=dracula)
