@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd1e6,100:ff7ab6&height=180&section=header" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd1e6,100:ff7ab6&height=100&section=header" alt="" />
 
 ## ୨୧ Sobre mim
 
