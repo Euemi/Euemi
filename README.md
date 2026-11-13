@@ -22,8 +22,10 @@ Oi! Eu sou a **Hemelly** ♡ (pode me chamar de Emi)
 ![Claude](https://img.shields.io/badge/Claude-f04a98?style=for-the-badge&logo=claude&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-f04a98?style=for-the-badge) ![Gemini](https://img.shields.io/badge/Gemini-f04a98?style=for-the-badge&logo=googlegemini&logoColor=white) ![v0](https://img.shields.io/badge/v0-f04a98?style=for-the-badge&logo=v0&logoColor=white) ![Stitch](https://img.shields.io/badge/Stitch-f04a98?style=for-the-badge&logo=google&logoColor=white)
 
 # 📊 GitHub Stats:
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Euemi&theme=default&title_color=ff7ab6&text_color=ffd1e6&bg_color=2a1b24&border_color=5c2443&icon_color=ff7ab6&chart_color=ff7ab6)<br/>
-![Streak](https://streak-stats.demolab.com/?user=Euemi&background=2A1B24&border=5C2443&stroke=5C2443&ring=FF7AB6&fire=FF4FA3&currStreakNum=FFD1E6&sideNums=FFD1E6&currStreakLabel=FF7AB6&sideLabels=FF7AB6&dates=D98BB5)
+<p>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Euemi&theme=default&title_color=ff7ab6&text_color=ffd1e6&bg_color=2a1b24&border_color=5c2443&icon_color=ff7ab6&chart_color=ff7ab6" alt="Stats" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=Euemi&background=2A1B24&border=5C2443&stroke=5C2443&ring=FF7AB6&fire=FF4FA3&currStreakNum=FFD1E6&sideNums=FFD1E6&currStreakLabel=FF7AB6&sideLabels=FF7AB6&dates=D98BB5" alt="Streak" />
+</p>
 
 # 🐍 Contribuições:
 <picture>
