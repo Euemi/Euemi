@@ -9,7 +9,7 @@ Oi! Eu sou a **Hemelly** ♡ (pode me chamar de Emi)
 - 🍡 Fora do trabalho: animes, gatos, dança, rpg, jogos, livros
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hemelly-carolyne)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff7ab6?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHJlY3QgeD0iMSIgeT0iMSIgd2lkdGg9IjIyIiBoZWlnaHQ9IjIyIiByeD0iNCIgZmlsbD0id2hpdGUiLz48cmVjdCB4PSI1IiB5PSIxMCIgd2lkdGg9IjMiIGhlaWdodD0iOSIgZmlsbD0iI2ZmN2FiNiIvPjxjaXJjbGUgY3g9IjYuNSIgY3k9IjYuNSIgcj0iMS44IiBmaWxsPSIjZmY3YWI2Ii8+PHBhdGggZD0iTTEwIDEwaDN2MS41Yy42LTEgMS43LTEuOCAzLjMtMS44IDIuNCAwIDMuNyAxLjUgMy43IDQuM1YxOWgtM3YtNC42YzAtMS4zLS41LTIuMS0xLjYtMi4xLTEuMiAwLTIuNC44LTIuNCAyLjRWMTloLTN6IiBmaWxsPSIjZmY3YWI2Ii8+PC9zdmc+)](https://linkedin.com/in/hemelly-carolyne)
 
 # ✿ Ferramentas:
 
@@ -32,4 +32,5 @@ Oi! Eu sou a **Hemelly** ♡ (pode me chamar de Emi)
   <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/Euemi/Euemi/output/github-snake.svg" />
 </picture>
 
+<img width="100%" src="https://raw.githubusercontent.com/Euemi/Euemi/main/assets/gatinho.svg" alt="Gatinho rosa andando" />
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7ab6,100:ffd1e6&height=100&section=footer" alt="" />
