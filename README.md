@@ -7,7 +7,7 @@ Oi! Eu sou a **Hemelly** ♡ (pode me chamar de Emi)
 - 🎨 **UI/UX Designer** criando apps, sites e produtos digitais há 2 anos, com foco em pesquisa com usuários, interfaces e design system
 - 🤖 Explorando agora: **IA aplicada ao design** e como ela muda a forma de criar produtos
 - 🌷 Entre em [contato](https://linkedin.com/in/hemelly-carolyne) comigo!
-- 🍡 Fora do trabalho: 🐱 gatos · 📺 animes · 💃 dança · 🎲 rpg · 🎮 jogos · 📚 livros
+- 🍡 Fora do trabalho: 🐱 gatos · 🖌️ ilustração · 📺 animes · 💃 dança · 🎲 rpg · 🎮 jogos · 📚 livros
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-30363d?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHJlY3QgeD0iMSIgeT0iMSIgd2lkdGg9IjIyIiBoZWlnaHQ9IjIyIiByeD0iNCIgZmlsbD0iI2ZmN2FiNiIvPjxyZWN0IHg9IjUiIHk9IjEwIiB3aWR0aD0iMyIgaGVpZ2h0PSI5IiBmaWxsPSIjMzAzNjNkIi8+PGNpcmNsZSBjeD0iNi41IiBjeT0iNi41IiByPSIxLjgiIGZpbGw9IiMzMDM2M2QiLz48cGF0aCBkPSJNMTAgMTBoM3YxLjVjLjYtMSAxLjctMS44IDMuMy0xLjggMi40IDAgMy43IDEuNSAzLjcgNC4zVjE5aC0zdi00LjZjMC0xLjMtLjUtMi4xLTEuNi0yLjEtMS4yIDAtMi40LjgtMi40IDIuNFYxOWgtM3oiIGZpbGw9IiMzMDM2M2QiLz48L3N2Zz4=)](https://linkedin.com/in/hemelly-carolyne) [![Behance](https://img.shields.io/badge/Behance-30363d?style=for-the-badge&logo=behance&logoColor=ff7ab6)](https://www.behance.net/hemellycarolyne1)
